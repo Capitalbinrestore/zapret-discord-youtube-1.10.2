@@ -164,14 +164,14 @@ sc delete название_из_первого_шага
 
 ### Не работает <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=18 /> YouTube
 
-- Убедитесь что вы настроили [Secure DNS](#%EF% B8%8Fиспользование)
+- Убедитесь что вы настроили [Secure DNS](#%EF%B8%8Fиспользование)
 - Отключите блокировщик рекламы, известно что YouTube начал с ними бороться.
 - Пробуйте все другие стратегии (если раньше работало, но перестало).
 - См. также [#251](https://github.com/Capitalbinrestore/zapret-discord-youtube/discussions/251)
 
 ### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=18 /> Discord
 
-- Убедитесь что вы настроили [Secure DNS](#%EF% B8%8Fиспользование)
+- Убедитесь что вы настроили [Secure DNS](#%EF%B8%8Fиспользование)
 - Желательно сначала узнать, на какой стратегии открывается сайт YouTube. Запустите эту стратегию.
 - Запустите `service.bat` -> `Run Diagnostics` и выполните там очистку кэша Discord.
 - Проверьте приложение Discord. Помогла ли очистка кэша?
@@ -179,7 +179,7 @@ sc delete название_из_первого_шага
 - Если Discord и в браузере не работает, то пробуйте ещё раз все стратегии. Бывает такое, что на одной стратегии YouTube работает, а Discord нет.
 - См. также [#252](https://github.com/Capitalbinrestore/zapret-discord-youtube/discussions/252)
 
-### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" height=18 /> Telegram
+### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=18 /> Telegram
 
 - Используйте программу [tg-ws-proxy](https://github.com/Capitalbinrestore/tg-ws-proxy)
 - Или используйте бесплатные MTProto прокси из интернета
